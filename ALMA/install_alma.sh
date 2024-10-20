@@ -1,0 +1,14 @@
+pip install transformers==4.51.1
+pip install peft==0.13.0
+pip install sentencepiece
+pip install sacrebleu
+pip install ipython
+pip install datasets
+pip install evaluate
+pip3 install deepspeed==0.15.1
+pip install einops
+pip install wandb
+pip install zstandard
+pip install accelerate==0.34.2
+pip install jsonlines
+pip install trl

@@ -1,0 +1,3387 @@
+
+trainable params: 104,857,600 || all params: 13,144,970,240 || trainable%: 0.7977013114941826
+  0%|          | 0/5424 [00:00<?, ?it/s]You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 1/5424 [00:04<6:01:32,  4.00s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 2/5424 [00:07<5:13:51,  3.47s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 3/5424 [00:10<5:00:27,  3.33s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 4/5424 [00:13<4:55:20,  3.27s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 5/5424 [00:16<4:49:35,  3.21s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 6/5424 [00:19<4:41:54,  3.12s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 7/5424 [00:22<4:43:39,  3.14s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 8/5424 [00:25<4:42:54,  3.13s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 9/5424 [00:29<4:45:01,  3.16s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 21.7808, 'grad_norm': 0.3823806345462799, 'learning_rate': 9.999970804225077e-06, 'rewards/margins': 2.955806255340576, 'rewards/chosen': -7.844664096832275, 'rewards/rejected': -10.800470352172852, 'logps/margins': 13.725131034851074, 'logps/chosen': -21.004823684692383, 'logps/rejected': -34.72995376586914, 'accuracy': 0.6000000238418579, 'epoch': 0.01}
+  0%|          | 10/5424 [00:32<4:49:39,  3.21s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 11/5424 [00:35<4:43:28,  3.14s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 12/5424 [00:38<4:38:45,  3.09s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 13/5424 [00:41<4:40:35,  3.11s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 16/5424 [00:46<2:53:45,  1.93s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 17/5424 [00:49<3:22:01,  2.24s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 18/5424 [00:52<3:41:35,  2.46s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 19/5424 [00:55<4:04:58,  2.72s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 14.466, 'grad_norm': 0.1927316039800644, 'learning_rate': 9.999787964984953e-06, 'rewards/margins': 3.9869256019592285, 'rewards/chosen': -5.849061965942383, 'rewards/rejected': -9.835987091064453, 'logps/margins': 16.090295791625977, 'logps/chosen': -14.23253059387207, 'logps/rejected': -30.322824478149414, 'accuracy': 0.800000011920929, 'epoch': 0.01}
+  0%|          | 20/5424 [00:58<4:17:44,  2.86s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 22/5424 [01:02<3:28:27,  2.32s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 23/5424 [01:05<3:52:18,  2.58s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 24/5424 [01:08<4:06:45,  2.74s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 25/5424 [01:12<4:18:55,  2.88s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 26/5424 [01:15<4:21:38,  2.91s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  0%|          | 27/5424 [01:18<4:26:50,  2.97s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 28/5424 [01:21<4:27:05,  2.97s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 15.7423, 'grad_norm': nan, 'learning_rate': 9.999479994936568e-06, 'rewards/margins': 4.120326042175293, 'rewards/chosen': -5.8487677574157715, 'rewards/rejected': -9.969094276428223, 'logps/margins': 18.88624382019043, 'logps/chosen': -15.336462020874023, 'logps/rejected': -34.22270965576172, 'accuracy': 0.8999999761581421, 'epoch': 0.02}
+  1%|          | 30/5424 [01:24<3:28:29,  2.32s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 31/5424 [01:28<3:51:36,  2.58s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 32/5424 [01:31<4:06:23,  2.74s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  1%|          | 36/5424 [01:36<2:16:23,  1.52s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 37/5424 [01:39<2:55:15,  1.95s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 38/5424 [01:42<3:22:42,  2.26s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 39/5424 [01:46<3:47:34,  2.54s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 14.7643, 'grad_norm': 0.37162554264068604, 'learning_rate': 9.998978466833839e-06, 'rewards/margins': 0.7159948945045471, 'rewards/chosen': -5.158031463623047, 'rewards/rejected': -5.874026298522949, 'logps/margins': 3.551405668258667, 'logps/chosen': -13.794321060180664, 'logps/rejected': -17.345727920532227, 'accuracy': 0.6000000238418579, 'epoch': 0.02}
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 40/5424 [01:49<4:04:58,  2.73s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 44/5424 [01:54<2:13:41,  1.49s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 45/5424 [01:57<2:59:10,  2.00s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 46/5424 [02:00<3:24:45,  2.28s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 47/5424 [02:03<3:48:16,  2.55s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 49/5424 [02:07<3:07:56,  2.10s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 13.0288, 'grad_norm': 0.45841050148010254, 'learning_rate': 9.998309229700175e-06, 'rewards/margins': 1.8442325592041016, 'rewards/chosen': -5.429346084594727, 'rewards/rejected': -7.273578643798828, 'logps/margins': 10.608338356018066, 'logps/chosen': -12.259759902954102, 'logps/rejected': -22.868099212646484, 'accuracy': 0.800000011920929, 'epoch': 0.03}
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 50/5424 [02:10<3:36:28,  2.42s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 53/5424 [02:15<2:29:57,  1.68s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 54/5424 [02:18<3:08:25,  2.11s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 56/5424 [02:22<2:53:37,  1.94s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 57/5424 [02:25<3:26:13,  2.31s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 58/5424 [02:28<3:49:21,  2.56s/it]
+  1%|          | 60/5424 [02:30<2:28:14,  1.66s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 62/5424 [02:34<2:36:55,  1.76s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 63/5424 [02:37<3:08:58,  2.11s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|          | 66/5424 [02:42<2:23:29,  1.61s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 68/5424 [02:46<2:33:55,  1.72s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 69/5424 [02:49<3:16:12,  2.20s/it]
+  1%|▏         | 70/5424 [02:50<2:38:25,  1.78s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 71/5424 [02:53<3:16:02,  2.20s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 72/5424 [02:57<3:49:57,  2.58s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 75/5424 [03:01<2:37:32,  1.77s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 77/5424 [03:06<2:38:59,  1.78s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 78/5424 [03:08<3:09:56,  2.13s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  1%|▏         | 79/5424 [03:11<3:33:23,  2.40s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 18.1217, 'grad_norm': 0.7772722244262695, 'learning_rate': 9.995420279501535e-06, 'rewards/margins': nan, 'rewards/chosen': nan, 'rewards/rejected': -10.29881477355957, 'logps/margins': nan, 'logps/chosen': nan, 'logps/rejected': -35.889122009277344, 'accuracy': 0.6000000238418579, 'epoch': 0.04}
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 82/5424 [03:16<2:29:38,  1.68s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  2%|▏         | 87/5424 [03:23<1:40:10,  1.13s/it]
+
+  2%|▏         | 90/5424 [03:25<1:21:10,  1.10it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 91/5424 [03:28<2:27:17,  1.66s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  2%|▏         | 96/5424 [03:35<1:37:35,  1.10s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 99/5424 [03:39<1:52:28,  1.27s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 20.8004, 'grad_norm': 1.4089057445526123, 'learning_rate': 9.992606662492642e-06, 'rewards/margins': 2.1311919689178467, 'rewards/chosen': -7.550177574157715, 'rewards/rejected': -9.681368827819824, 'logps/margins': 10.082683563232422, 'logps/chosen': -19.73110008239746, 'logps/rejected': -29.813785552978516, 'accuracy': 0.6000000238418579, 'epoch': 0.06}
+
+  2%|▏         | 103/5424 [03:45<1:43:48,  1.17s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 104/5424 [03:48<2:32:43,  1.72s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 105/5424 [03:51<3:05:32,  2.09s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 106/5424 [03:54<3:26:40,  2.33s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 109/5424 [03:59<2:28:33,  1.68s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 21.7613, 'grad_norm': 1.3659931421279907, 'learning_rate': 9.990948586086544e-06, 'rewards/margins': 1.4440547227859497, 'rewards/chosen': -7.061708927154541, 'rewards/rejected': -8.505763053894043, 'logps/margins': 7.117389678955078, 'logps/chosen': -20.501832962036133, 'logps/rejected': -27.61922264099121, 'accuracy': 0.6000000238418579, 'epoch': 0.06}
+  2%|▏         | 112/5424 [04:03<2:09:29,  1.46s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 114/5424 [04:07<2:19:34,  1.58s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 115/5424 [04:10<2:59:04,  2.02s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  2%|▏         | 119/5424 [04:15<1:53:15,  1.28s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 13.3643, 'grad_norm': 0.574779212474823, 'learning_rate': 9.989123070041253e-06, 'rewards/margins': 0.4925196170806885, 'rewards/chosen': -5.127085208892822, 'rewards/rejected': -5.619604110717773, 'logps/margins': 3.289311170578003, 'logps/chosen': -12.46442985534668, 'logps/rejected': -15.753740310668945, 'accuracy': 0.4000000059604645, 'epoch': 0.07}
+
+  2%|▏         | 123/5424 [04:21<1:40:22,  1.14s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 124/5424 [04:24<2:34:14,  1.75s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  2%|▏         | 128/5424 [04:29<1:51:30,  1.26s/it]
+
+  2%|▏         | 131/5424 [04:32<1:24:44,  1.04it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  2%|▏         | 132/5424 [04:35<2:17:38,  1.56s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 136/5424 [04:40<1:46:18,  1.21s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 137/5424 [04:43<2:41:55,  1.84s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 139/5424 [04:47<2:37:12,  1.78s/it]
+  3%|▎         | 140/5424 [04:48<2:11:31,  1.49s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 141/5424 [04:51<2:56:01,  2.00s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+  3%|▎         | 148/5424 [04:59<1:25:07,  1.03it/s]
+
+  3%|▎         | 150/5424 [05:01<1:20:23,  1.09it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  3%|▎         | 155/5424 [05:07<1:26:20,  1.02it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  3%|▎         | 159/5424 [05:13<1:36:26,  1.10s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 15.2835, 'grad_norm': 1.5625633001327515, 'learning_rate': 9.980147918556697e-06, 'rewards/margins': 1.9418100118637085, 'rewards/chosen': -5.916537284851074, 'rewards/rejected': -7.8583478927612305, 'logps/margins': 9.735246658325195, 'logps/chosen': -14.802800178527832, 'logps/rejected': -24.53804588317871, 'accuracy': 0.8999999761581421, 'epoch': 0.09}
+  3%|▎         | 160/5424 [05:16<2:30:27,  1.71s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 163/5424 [05:21<2:06:59,  1.45s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 165/5424 [05:25<2:19:57,  1.60s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 166/5424 [05:28<3:00:56,  2.06s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 168/5424 [05:32<2:50:09,  1.94s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 15.2552, 'grad_norm': 1.0536061525344849, 'learning_rate': 9.97748623524136e-06, 'rewards/margins': 1.8274742364883423, 'rewards/chosen': -5.404389381408691, 'rewards/rejected': -7.231863498687744, 'logps/margins': 9.05082893371582, 'logps/chosen': -14.567790031433105, 'logps/rejected': -23.61861801147461, 'accuracy': 0.699999988079071, 'epoch': 0.09}
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+  3%|▎         | 175/5424 [05:40<1:24:08,  1.04it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 178/5424 [05:44<1:44:56,  1.20s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  3%|▎         | 179/5424 [05:48<2:39:24,  1.82s/it]
+
+
+  3%|▎         | 184/5424 [05:52<1:24:40,  1.03it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  3%|▎         | 188/5424 [05:57<1:33:41,  1.07s/it]
+
+
+
+
+  4%|▎         | 198/5424 [06:05<1:10:41,  1.23it/s]
+
+
+  4%|▎         | 203/5424 [06:09<1:12:01,  1.21it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  4%|▍         | 204/5424 [06:12<2:12:44,  1.53s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  4%|▍         | 207/5424 [06:17<2:01:50,  1.40s/it]
+
+
+
+  4%|▍         | 215/5424 [06:23<1:11:14,  1.22it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  4%|▍         | 217/5424 [06:27<1:53:18,  1.31s/it]
+
+  4%|▍         | 221/5424 [06:31<1:19:14,  1.09it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  4%|▍         | 224/5424 [06:35<1:41:11,  1.17s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  4%|▍         | 229/5424 [06:42<1:28:15,  1.02s/it]
+
+
+
+
+  4%|▍         | 239/5424 [06:50<1:08:31,  1.26it/s]
+
+
+
+  5%|▍         | 246/5424 [06:55<1:11:06,  1.21it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  5%|▍         | 248/5424 [06:59<1:52:50,  1.31s/it]
+
+
+  5%|▍         | 254/5424 [07:04<1:14:39,  1.15it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  5%|▍         | 258/5424 [07:10<1:29:07,  1.04s/it]
+
+
+
+  5%|▍         | 267/5424 [07:17<1:08:39,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  5%|▍         | 268/5424 [07:20<2:07:29,  1.48s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 13.9453, 'grad_norm': 2.5737738609313965, 'learning_rate': 9.941702566574213e-06, 'rewards/margins': 0.12008865177631378, 'rewards/chosen': -5.7451372146606445, 'rewards/rejected': -5.865225791931152, 'logps/margins': 5.851515769958496, 'logps/chosen': -12.743969917297363, 'logps/rejected': -18.59548568725586, 'accuracy': 0.4000000059604645, 'epoch': 0.15}
+
+
+  5%|▌         | 275/5424 [07:28<1:20:10,  1.07it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  5%|▌         | 279/5424 [07:33<1:34:26,  1.10s/it]
+
+
+  5%|▌         | 285/5424 [07:38<1:11:25,  1.20it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  5%|▌         | 287/5424 [07:42<1:47:34,  1.26s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  5%|▌         | 289/5424 [07:46<2:08:28,  1.50s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 19.4368, 'grad_norm': 1.4768521785736084, 'learning_rate': 9.932552111338057e-06, 'rewards/margins': -0.20406289398670197, 'rewards/chosen': -6.568182468414307, 'rewards/rejected': -6.364120006561279, 'logps/margins': 1.4366352558135986, 'logps/chosen': -17.843505859375, 'logps/rejected': -19.280139923095703, 'accuracy': 0.6000000238418579, 'epoch': 0.16}
+
+
+
+  5%|▌         | 298/5424 [07:55<1:14:56,  1.14it/s]
+
+  6%|▌         | 300/5424 [07:57<1:13:34,  1.16it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  6%|▌         | 303/5424 [08:02<1:41:03,  1.18s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  6%|▌         | 307/5424 [08:07<1:36:54,  1.14s/it]
+
+
+
+
+  6%|▌         | 317/5424 [08:15<1:06:44,  1.28it/s]
+
+
+  6%|▌         | 323/5424 [08:20<1:09:00,  1.23it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  6%|▌         | 328/5424 [08:27<1:22:07,  1.03it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  6%|▌         | 329/5424 [08:30<2:21:10,  1.66s/it]
+
+  6%|▌         | 333/5424 [08:33<1:26:07,  1.01s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  6%|▌         | 338/5424 [08:39<1:23:38,  1.01it/s]
+
+
+
+
+  6%|▋         | 348/5424 [08:47<1:08:03,  1.24it/s]
+
+
+  7%|▋         | 354/5424 [08:52<1:10:00,  1.21it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  7%|▋         | 358/5424 [08:58<1:26:59,  1.03s/it]
+
+
+
+
+  7%|▋         | 368/5424 [09:06<1:07:20,  1.25it/s]
+
+
+
+  7%|▋         | 376/5424 [09:12<1:07:54,  1.24it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  7%|▋         | 378/5424 [09:16<1:45:14,  1.25s/it]
+
+
+
+
+  7%|▋         | 387/5424 [09:23<1:08:55,  1.22it/s]
+
+
+  7%|▋         | 393/5424 [09:28<1:08:01,  1.23it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+  7%|▋         | 399/5424 [09:35<1:18:35,  1.07it/s]
+
+
+
+  8%|▊         | 407/5424 [09:42<1:08:19,  1.22it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  8%|▊         | 408/5424 [09:45<2:10:47,  1.56s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 19.3096, 'grad_norm': 1.4560714960098267, 'learning_rate': 9.863798318314477e-06, 'rewards/margins': 0.673546552658081, 'rewards/chosen': -6.307299613952637, 'rewards/rejected': -6.9808454513549805, 'logps/margins': 0.3450244963169098, 'logps/chosen': -18.02544403076172, 'logps/rejected': -18.370468139648438, 'accuracy': 0.6000000238418579, 'epoch': 0.23}
+
+
+
+  8%|▊         | 417/5424 [09:56<1:18:37,  1.06it/s]
+
+
+
+
+  8%|▊         | 427/5424 [10:04<1:07:13,  1.24it/s]
+
+
+  8%|▊         | 433/5424 [10:08<1:07:19,  1.24it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  8%|▊         | 437/5424 [10:14<1:28:19,  1.06s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+  8%|▊         | 439/5424 [10:18<1:57:18,  1.41s/it]
+
+  8%|▊         | 441/5424 [10:20<1:30:48,  1.09s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+  8%|▊         | 448/5424 [10:28<1:16:53,  1.08it/s]
+
+
+
+
+  8%|▊         | 458/5424 [10:36<1:07:11,  1.23it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 16.7883, 'grad_norm': 3.318643093109131, 'learning_rate': 9.828195777571287e-06, 'rewards/margins': 1.0120538473129272, 'rewards/chosen': -5.6879563331604, 'rewards/rejected': -6.700009822845459, 'logps/margins': 5.931576728820801, 'logps/chosen': -15.527931213378906, 'logps/rejected': -21.45950698852539, 'accuracy': 0.699999988079071, 'epoch': 0.25}
+
+
+
+  9%|▊         | 467/5424 [10:45<1:09:27,  1.19it/s]
+
+
+
+
+  9%|▉         | 477/5424 [10:53<1:06:52,  1.23it/s]
+
+  9%|▉         | 481/5424 [10:57<1:04:45,  1.27it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+  9%|▉         | 487/5424 [11:04<1:14:08,  1.11it/s]
+
+
+
+
+
+  9%|▉         | 499/5424 [11:13<1:07:46,  1.21it/s]
+  9%|▉         | 501/5424 [11:15<1:06:47,  1.23it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  9%|▉         | 504/5424 [11:20<1:30:33,  1.10s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+  9%|▉         | 509/5424 [11:26<1:20:38,  1.02it/s]
+
+
+
+
+ 10%|▉         | 519/5424 [11:34<1:07:15,  1.22it/s]
+
+
+
+
+ 10%|▉         | 529/5424 [11:42<1:06:13,  1.23it/s]
+
+
+
+
+ 10%|▉         | 539/5424 [11:50<1:03:37,  1.28it/s]
+
+
+
+
+ 10%|█         | 549/5424 [11:58<1:04:08,  1.27it/s]
+
+
+
+
+ 10%|█         | 559/5424 [12:06<1:06:18,  1.22it/s]
+
+
+
+
+ 10%|█         | 569/5424 [12:14<1:02:52,  1.29it/s]
+
+
+
+
+ 11%|█         | 579/5424 [12:22<1:04:40,  1.25it/s]
+
+
+
+
+ 11%|█         | 589/5424 [12:30<1:05:08,  1.24it/s]
+
+
+
+
+ 11%|█         | 599/5424 [12:38<1:04:44,  1.24it/s]
+
+ 11%|█         | 603/5424 [12:41<1:04:27,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+ 11%|█         | 609/5424 [12:48<1:14:00,  1.08it/s]
+
+
+
+
+ 11%|█▏        | 619/5424 [12:56<1:03:09,  1.27it/s]
+
+
+
+
+ 12%|█▏        | 628/5424 [13:04<1:04:36,  1.24it/s]
+
+
+
+
+ 12%|█▏        | 638/5424 [13:12<1:06:10,  1.21it/s]
+
+ 12%|█▏        | 641/5424 [13:15<1:05:51,  1.21it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+ 12%|█▏        | 647/5424 [13:22<1:15:58,  1.05it/s]
+
+
+
+
+ 12%|█▏        | 657/5424 [13:30<1:03:57,  1.24it/s]
+
+
+
+
+ 12%|█▏        | 667/5424 [13:38<1:02:40,  1.26it/s]
+
+
+
+
+ 12%|█▏        | 677/5424 [13:46<1:02:59,  1.26it/s]
+
+
+ 13%|█▎        | 683/5424 [13:51<1:06:36,  1.19it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+ 13%|█▎        | 688/5424 [13:57<1:15:48,  1.04it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+ 13%|█▎        | 689/5424 [14:00<2:05:38,  1.59s/it]
+
+
+
+
+ 13%|█▎        | 699/5424 [14:08<1:04:25,  1.22it/s]
+
+
+
+
+ 13%|█▎        | 709/5424 [14:16<1:05:24,  1.20it/s]
+
+
+
+
+ 13%|█▎        | 718/5424 [14:24<1:05:55,  1.19it/s]
+
+
+
+
+ 13%|█▎        | 728/5424 [14:32<1:05:58,  1.19it/s]
+
+
+
+
+ 14%|█▎        | 738/5424 [14:40<1:01:43,  1.27it/s]
+
+
+
+
+ 14%|█▍        | 748/5424 [14:48<1:03:10,  1.23it/s]
+
+
+
+
+ 14%|█▍        | 758/5424 [14:56<1:01:19,  1.27it/s]
+
+
+
+
+ 14%|█▍        | 767/5424 [15:04<1:04:50,  1.20it/s]
+
+
+
+
+
+ 14%|█▍        | 780/5424 [15:15<1:02:40,  1.23it/s]
+
+
+ 14%|█▍        | 786/5424 [15:19<1:01:36,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+ 15%|█▍        | 789/5424 [15:24<1:30:31,  1.17s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 23.7343, 'grad_norm': 2.848292112350464, 'learning_rate': 9.493401603612188e-06, 'rewards/margins': 0.5408052206039429, 'rewards/chosen': -7.171048641204834, 'rewards/rejected': -7.711854457855225, 'logps/margins': 0.2894971966743469, 'logps/chosen': -21.85109519958496, 'logps/rejected': -22.14059066772461, 'accuracy': 0.5, 'epoch': 0.44}
+ 15%|█▍        | 790/5424 [15:28<2:18:58,  1.80s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+
+ 15%|█▍        | 798/5424 [15:36<1:07:46,  1.14it/s]
+
+
+
+
+ 15%|█▍        | 808/5424 [15:44<1:03:35,  1.21it/s]
+
+
+
+
+ 15%|█▌        | 818/5424 [15:52<1:01:04,  1.26it/s]
+
+
+
+
+ 15%|█▌        | 828/5424 [16:00<1:00:30,  1.27it/s]
+
+
+
+
+ 15%|█▌        | 838/5424 [16:09<1:03:38,  1.20it/s]
+
+
+
+
+ 16%|█▌        | 848/5424 [16:16<1:00:37,  1.26it/s]
+
+
+
+
+ 16%|█▌        | 858/5424 [16:25<1:01:01,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 31.415, 'grad_norm': 2.2527730464935303, 'learning_rate': 9.400817315454417e-06, 'rewards/margins': -1.9417394399642944, 'rewards/chosen': -8.941282272338867, 'rewards/rejected': -6.999541282653809, 'logps/margins': -9.306204795837402, 'logps/chosen': -28.216381072998047, 'logps/rejected': -18.910175323486328, 'accuracy': 0.699999988079071, 'epoch': 0.48}
+
+
+
+ 16%|█▌        | 868/5424 [16:35<1:01:42,  1.23it/s]
+
+
+
+
+ 16%|█▌        | 877/5424 [16:42<1:01:49,  1.23it/s]
+
+
+
+
+ 16%|█▋        | 887/5424 [16:50<1:02:59,  1.20it/s]
+
+
+
+
+
+ 17%|█▋        | 900/5424 [17:01<1:01:24,  1.23it/s]
+
+
+
+
+ 17%|█▋        | 909/5424 [17:08<1:01:07,  1.23it/s]
+
+
+
+
+ 17%|█▋        | 919/5424 [17:17<1:01:56,  1.21it/s]
+
+
+
+
+ 17%|█▋        | 929/5424 [17:25<59:59,  1.25it/s]
+
+
+
+
+ 17%|█▋        | 939/5424 [17:33<1:00:00,  1.25it/s]
+
+ 17%|█▋        | 943/5424 [17:36<1:01:09,  1.22it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+ 17%|█▋        | 948/5424 [17:42<1:12:21,  1.03it/s]
+
+
+
+
+ 18%|█▊        | 958/5424 [17:50<59:36,  1.25it/s]
+
+
+
+
+ 18%|█▊        | 968/5424 [17:58<59:42,  1.24it/s]
+
+
+
+
+ 18%|█▊        | 978/5424 [18:06<59:42,  1.24it/s]
+
+ 18%|█▊        | 982/5424 [18:10<59:26,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+ 18%|█▊        | 987/5424 [18:16<1:14:12,  1.00s/it]
+
+
+ 18%|█▊        | 992/5424 [18:20<1:01:49,  1.19it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+ 18%|█▊        | 999/5424 [18:28<1:07:40,  1.09it/s]
+
+
+ 19%|█▊        | 1006/5424 [18:34<1:00:14,  1.22it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+ 19%|█▊        | 1008/5424 [18:38<1:35:46,  1.30s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 14.4422, 'grad_norm': 2.207125663757324, 'learning_rate': 9.17827582876567e-06, 'rewards/margins': 1.7611629962921143, 'rewards/chosen': -5.7919511795043945, 'rewards/rejected': -7.553114414215088, 'logps/margins': 12.388916015625, 'logps/chosen': -13.533502578735352, 'logps/rejected': -25.92241859436035, 'accuracy': 0.800000011920929, 'epoch': 0.56}
+
+
+
+ 19%|█▉        | 1018/5424 [18:49<1:02:25,  1.18it/s]
+
+
+
+
+ 19%|█▉        | 1028/5424 [18:57<1:00:11,  1.22it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 12.7746, 'grad_norm': 1.3616280555725098, 'learning_rate': 9.146182667587774e-06, 'rewards/margins': 1.8513389825820923, 'rewards/chosen': -5.330580711364746, 'rewards/rejected': -7.181920051574707, 'logps/margins': 9.543803215026855, 'logps/chosen': -12.46239948272705, 'logps/rejected': -22.006200790405273, 'accuracy': 0.800000011920929, 'epoch': 0.57}
+
+
+
+ 19%|█▉        | 1037/5424 [19:06<1:03:02,  1.16it/s]
+
+
+ 19%|█▉        | 1043/5424 [19:11<58:41,  1.24it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+ 19%|█▉        | 1050/5424 [19:19<1:03:39,  1.15it/s]
+
+
+
+
+ 20%|█▉        | 1060/5424 [19:27<59:11,  1.23it/s]
+
+
+
+
+ 20%|█▉        | 1069/5424 [19:34<57:59,  1.25it/s]
+
+
+
+
+ 20%|█▉        | 1079/5424 [19:43<1:00:15,  1.20it/s]
+
+
+
+
+ 20%|██        | 1089/5424 [19:51<58:13,  1.24it/s]
+
+
+
+
+ 20%|██        | 1098/5424 [19:59<1:00:54,  1.18it/s]
+
+
+
+
+ 20%|██        | 1108/5424 [20:07<57:55,  1.24it/s]
+
+
+
+
+ 21%|██        | 1118/5424 [20:15<58:47,  1.22it/s]
+
+
+
+ 21%|██        | 1127/5424 [20:22<57:33,  1.24it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+ 21%|██        | 1130/5424 [20:27<1:24:15,  1.18s/it]
+
+
+
+
+ 21%|██        | 1140/5424 [20:35<59:04,  1.21it/s]
+ 21%|██        | 1141/5424 [20:36<1:01:19,  1.16it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+
+ 21%|██        | 1149/5424 [20:45<1:04:18,  1.11it/s]
+
+
+
+
+ 21%|██▏       | 1159/5424 [20:53<57:50,  1.23it/s]
+
+
+
+
+ 22%|██▏       | 1169/5424 [21:01<57:27,  1.23it/s]
+
+
+
+
+ 22%|██▏       | 1178/5424 [21:09<57:50,  1.22it/s]
+
+
+
+ 22%|██▏       | 1185/5424 [21:14<59:05,  1.20it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+ 22%|██▏       | 1190/5424 [21:21<1:12:24,  1.03s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+{'loss': 21.4909, 'grad_norm': 7.468592166900635, 'learning_rate': 8.869784599781473e-06, 'rewards/margins': -0.024387359619140625, 'rewards/chosen': -6.946310997009277, 'rewards/rejected': -6.921923637390137, 'logps/margins': 1.172191858291626, 'logps/chosen': -19.425535202026367, 'logps/rejected': -20.597726821899414, 'accuracy': 0.6000000238418579, 'epoch': 0.66}
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+ 22%|██▏       | 1191/5424 [21:24<1:52:17,  1.59s/it]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+
+ 22%|██▏       | 1199/5424 [21:33<1:03:20,  1.11it/s]
+
+
+
+
+ 22%|██▏       | 1209/5424 [21:41<56:47,  1.24it/s]
+
+
+
+
+ 22%|██▏       | 1219/5424 [21:49<58:35,  1.20it/s]
+
+
+
+
+ 23%|██▎       | 1229/5424 [21:57<55:14,  1.27it/s]
+
+
+
+
+ 23%|██▎       | 1239/5424 [22:05<55:24,  1.26it/s]
+
+
+
+
+ 23%|██▎       | 1249/5424 [22:13<1:00:28,  1.15it/s]
+
+
+
+ 23%|██▎       | 1257/5424 [22:20<55:14,  1.26it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+ 23%|██▎       | 1258/5424 [22:23<1:43:18,  1.49s/it]
+
+
+
+
+ 23%|██▎       | 1268/5424 [22:31<59:19,  1.17it/s]
+
+
+
+
+ 24%|██▎       | 1278/5424 [22:39<56:33,  1.22it/s]
+
+
+ 24%|██▎       | 1283/5424 [22:43<54:39,  1.26it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+ 24%|██▍       | 1290/5424 [22:51<1:01:55,  1.11it/s]
+
+
+
+
+ 24%|██▍       | 1299/5424 [22:59<57:47,  1.19it/s]
+
+ 24%|██▍       | 1303/5424 [23:02<54:12,  1.27it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+ 24%|██▍       | 1309/5424 [23:09<1:01:59,  1.11it/s]
+
+
+
+
+ 24%|██▍       | 1319/5424 [23:17<55:10,  1.24it/s]
+
+
+
+
+ 24%|██▍       | 1328/5424 [23:25<56:10,  1.22it/s]
+
+
+
+
+ 25%|██▍       | 1338/5424 [23:33<53:06,  1.28it/s]
+
+
+ 25%|██▍       | 1343/5424 [23:37<54:37,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+ 25%|██▍       | 1348/5424 [23:43<1:06:31,  1.02it/s]
+
+
+
+ 25%|██▍       | 1355/5424 [23:49<54:27,  1.25it/s]
+
+ 25%|██▌       | 1356/5424 [23:50<54:20,  1.25it/s]Could not load library libnvrtc.so.12. Error: libnvrtc.so.12: cannot open shared object file: No such file or directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|█████████▊| 198/201 [02:15<00:01,  1.53it/s]
+
+
+
+ 25%|██▌       | 1359/5424 [30:55<71:01:32, 62.90s/it]
+
+
+
+
+ 25%|██▌       | 1368/5424 [31:04<3:47:34,  3.37s/it]
+
+
+
+
+ 25%|██▌       | 1377/5424 [31:11<1:02:06,  1.09it/s]
+
+
+
+
+
+ 26%|██▌       | 1390/5424 [31:22<55:13,  1.22it/s]
+
+
+
+
+ 26%|██▌       | 1399/5424 [31:30<54:55,  1.22it/s]
+
+
+
+
+
+ 26%|██▌       | 1409/5424 [31:40<1:27:36,  1.31s/it]
+
+
+
+
+ 26%|██▌       | 1419/5424 [31:48<52:24,  1.27it/s]
+
+
+
+
+ 26%|██▋       | 1429/5424 [31:56<52:49,  1.26it/s]
+
+
+
+
+ 27%|██▋       | 1439/5424 [32:04<53:07,  1.25it/s]
+
+
+
+
+ 27%|██▋       | 1448/5424 [32:12<56:29,  1.17it/s]
+
+
+
+
+
+ 27%|██▋       | 1458/5424 [32:22<1:00:23,  1.09it/s]
+
+
+
+
+ 27%|██▋       | 1468/5424 [32:30<55:48,  1.18it/s]
+
+
+
+
+
+
+ 27%|██▋       | 1480/5424 [32:42<1:00:19,  1.09it/s]
+
+
+
+
+ 27%|██▋       | 1490/5424 [32:50<54:22,  1.21it/s]
+
+
+
+
+ 28%|██▊       | 1499/5424 [32:58<56:00,  1.17it/s]
+
+
+
+
+ 28%|██▊       | 1509/5424 [33:06<51:57,  1.26it/s]
+
+
+
+
+ 28%|██▊       | 1519/5424 [33:14<51:15,  1.27it/s]
+
+
+
+
+ 28%|██▊       | 1529/5424 [33:22<51:52,  1.25it/s]
+
+
+
+
+ 28%|██▊       | 1539/5424 [33:30<52:37,  1.23it/s]
+
+
+
+
+ 29%|██▊       | 1549/5424 [33:38<52:20,  1.23it/s]
+
+
+
+
+ 29%|██▊       | 1559/5424 [33:46<51:59,  1.24it/s]
+
+
+
+
+ 29%|██▉       | 1568/5424 [33:54<53:21,  1.20it/s]
+
+
+
+
+ 29%|██▉       | 1578/5424 [34:02<52:33,  1.22it/s]
+
+
+
+
+ 29%|██▉       | 1588/5424 [34:10<50:33,  1.26it/s]
+
+
+
+
+ 29%|██▉       | 1598/5424 [34:18<50:25,  1.26it/s]
+
+
+
+
+
+ 30%|██▉       | 1608/5424 [34:28<1:19:12,  1.25s/it]
+
+
+
+
+ 30%|██▉       | 1618/5424 [34:36<52:30,  1.21it/s]
+
+
+
+
+
+ 30%|███       | 1630/5424 [34:46<51:08,  1.24it/s]
+
+
+
+
+ 30%|███       | 1640/5424 [34:54<50:12,  1.26it/s]
+
+
+
+
+ 30%|███       | 1650/5424 [35:02<52:13,  1.20it/s]
+
+
+
+
+ 31%|███       | 1660/5424 [35:10<50:14,  1.25it/s]
+
+
+
+
+ 31%|███       | 1670/5424 [35:18<50:10,  1.25it/s]
+
+
+
+
+ 31%|███       | 1680/5424 [35:26<49:13,  1.27it/s]
+
+
+
+
+ 31%|███       | 1690/5424 [35:34<50:04,  1.24it/s]
+
+
+
+
+ 31%|███▏      | 1699/5424 [35:42<49:57,  1.24it/s]
+
+
+
+
+ 32%|███▏      | 1709/5424 [35:50<49:54,  1.24it/s]
+
+
+
+
+ 32%|███▏      | 1719/5424 [35:58<49:32,  1.25it/s]
+
+
+
+
+ 32%|███▏      | 1729/5424 [36:06<49:01,  1.26it/s]
+
+
+
+
+ 32%|███▏      | 1739/5424 [36:14<48:58,  1.25it/s]
+
+
+
+
+ 32%|███▏      | 1749/5424 [36:22<47:28,  1.29it/s]
+
+
+
+
+
+ 32%|███▏      | 1759/5424 [36:32<53:22,  1.14it/s]
+
+
+
+
+ 33%|███▎      | 1769/5424 [36:40<48:33,  1.25it/s]
+
+
+
+
+ 33%|███▎      | 1778/5424 [36:48<50:16,  1.21it/s]
+
+
+
+
+
+ 33%|███▎      | 1789/5424 [36:59<1:04:08,  1.06s/it]
+
+
+
+
+
+ 33%|███▎      | 1797/5424 [37:10<1:12:45,  1.20s/it]
+
+
+
+
+
+ 33%|███▎      | 1808/5424 [37:20<1:11:04,  1.18s/it]
+
+
+
+
+ 34%|███▎      | 1818/5424 [37:28<48:14,  1.25it/s]
+
+
+
+
+ 34%|███▎      | 1828/5424 [37:36<46:29,  1.29it/s]
+
+
+
+
+ 34%|███▍      | 1837/5424 [37:43<48:25,  1.23it/s]
+
+
+
+
+ 34%|███▍      | 1848/5424 [37:52<47:04,  1.27it/s]
+
+
+
+
+ 34%|███▍      | 1857/5424 [38:00<49:26,  1.20it/s]
+
+
+
+
+ 34%|███▍      | 1867/5424 [38:08<46:04,  1.29it/s]
+
+
+
+
+ 35%|███▍      | 1877/5424 [38:16<46:08,  1.28it/s]
+
+
+
+
+ 35%|███▍      | 1887/5424 [38:24<46:49,  1.26it/s]
+
+
+
+
+ 35%|███▍      | 1897/5424 [38:32<46:39,  1.26it/s]
+
+
+
+
+ 35%|███▌      | 1907/5424 [38:40<46:49,  1.25it/s]
+
+
+
+
+
+ 35%|███▌      | 1919/5424 [38:49<46:33,  1.25it/s]
+
+
+
+
+ 36%|███▌      | 1929/5424 [38:58<48:46,  1.19it/s]
+
+
+
+
+ 36%|███▌      | 1939/5424 [39:06<48:35,  1.20it/s]
+
+
+
+
+ 36%|███▌      | 1949/5424 [39:14<44:40,  1.30it/s]
+
+
+
+
+ 36%|███▌      | 1959/5424 [39:22<45:51,  1.26it/s]
+
+
+
+
+ 36%|███▋      | 1969/5424 [39:30<47:06,  1.22it/s]
+
+
+
+
+ 36%|███▋      | 1979/5424 [39:38<47:24,  1.21it/s]
+
+
+
+
+ 37%|███▋      | 1989/5424 [39:46<45:35,  1.26it/s]
+
+
+
+
+ 37%|███▋      | 1998/5424 [39:54<47:55,  1.19it/s]
+
+
+
+
+ 37%|███▋      | 2008/5424 [40:02<45:42,  1.25it/s]
+
+
+
+
+ 37%|███▋      | 2018/5424 [40:10<46:41,  1.22it/s]
+
+
+
+
+ 37%|███▋      | 2028/5424 [40:18<45:26,  1.25it/s]
+
+
+
+
+ 38%|███▊      | 2038/5424 [40:26<45:48,  1.23it/s]
+
+
+
+
+ 38%|███▊      | 2047/5424 [40:34<46:38,  1.21it/s]
+
+
+
+
+ 38%|███▊      | 2057/5424 [40:42<46:10,  1.22it/s]
+
+
+
+
+ 38%|███▊      | 2067/5424 [40:50<44:38,  1.25it/s]
+
+
+
+
+ 38%|███▊      | 2077/5424 [40:58<44:06,  1.26it/s]
+
+
+
+
+ 38%|███▊      | 2087/5424 [41:06<46:47,  1.19it/s]
+
+
+
+
+
+ 39%|███▊      | 2099/5424 [41:16<44:01,  1.26it/s]
+
+
+
+
+ 39%|███▉      | 2110/5424 [41:25<44:11,  1.25it/s]
+
+
+
+
+ 39%|███▉      | 2119/5424 [41:32<43:56,  1.25it/s]
+
+
+
+
+ 39%|███▉      | 2129/5424 [41:40<46:37,  1.18it/s]
+
+
+
+
+ 39%|███▉      | 2139/5424 [41:48<45:45,  1.20it/s]
+
+
+
+
+ 40%|███▉      | 2148/5424 [41:56<45:37,  1.20it/s]
+
+
+
+
+ 40%|███▉      | 2158/5424 [42:04<45:52,  1.19it/s]
+
+
+
+
+ 40%|███▉      | 2168/5424 [42:12<43:45,  1.24it/s]
+
+
+
+
+ 40%|████      | 2178/5424 [42:20<44:54,  1.20it/s]
+
+
+
+
+ 40%|████      | 2188/5424 [42:28<44:22,  1.22it/s]
+
+
+
+
+ 41%|████      | 2198/5424 [42:37<43:13,  1.24it/s]
+
+
+
+
+ 41%|████      | 2208/5424 [42:44<42:03,  1.27it/s]
+
+
+
+
+ 41%|████      | 2218/5424 [42:53<43:28,  1.23it/s]
+
+
+
+
+
+ 41%|████      | 2229/5424 [43:02<43:36,  1.22it/s]
+
+
+
+
+ 41%|████▏     | 2239/5424 [43:10<43:13,  1.23it/s]
+
+
+
+
+ 41%|████▏     | 2249/5424 [43:18<45:09,  1.17it/s]
+
+
+
+
+ 42%|████▏     | 2259/5424 [43:27<44:14,  1.19it/s]
+
+
+
+
+ 42%|████▏     | 2269/5424 [43:35<43:20,  1.21it/s]
+
+
+
+
+ 42%|████▏     | 2278/5424 [43:42<43:01,  1.22it/s]
+
+
+
+
+ 42%|████▏     | 2288/5424 [43:50<41:33,  1.26it/s]
+
+
+
+
+ 42%|████▏     | 2298/5424 [43:58<41:31,  1.25it/s]
+
+
+
+
+ 43%|████▎     | 2308/5424 [44:06<41:37,  1.25it/s]
+
+
+
+
+ 43%|████▎     | 2318/5424 [44:14<41:39,  1.24it/s]
+
+
+
+
+ 43%|████▎     | 2328/5424 [44:23<43:14,  1.19it/s]
+
+
+
+
+ 43%|████▎     | 2337/5424 [44:30<41:57,  1.23it/s]
+
+
+
+
+ 43%|████▎     | 2347/5424 [44:38<42:00,  1.22it/s]
+
+
+
+
+ 43%|████▎     | 2357/5424 [44:46<40:30,  1.26it/s]
+
+
+
+
+
+ 44%|████▎     | 2370/5424 [44:57<40:37,  1.25it/s]
+
+
+
+ 44%|████▍     | 2377/5424 [45:02<40:34,  1.25it/s]
+
+
+
+
+
+ 44%|████▍     | 2389/5424 [45:12<40:19,  1.25it/s]
+
+
+
+
+ 44%|████▍     | 2399/5424 [45:20<40:10,  1.25it/s]
+
+
+
+
+ 44%|████▍     | 2409/5424 [45:28<40:12,  1.25it/s]
+
+
+
+
+ 45%|████▍     | 2419/5424 [45:36<40:51,  1.23it/s]
+
+
+
+
+ 45%|████▍     | 2429/5424 [45:44<40:14,  1.24it/s]
+
+
+
+
+ 45%|████▍     | 2439/5424 [45:52<39:00,  1.28it/s]
+
+
+
+
+ 45%|████▌     | 2449/5424 [46:01<40:17,  1.23it/s]
+
+
+
+
+ 45%|████▌     | 2458/5424 [46:08<41:23,  1.19it/s]
+
+
+
+
+ 46%|████▌     | 2468/5424 [46:17<41:18,  1.19it/s]
+
+
+
+
+ 46%|████▌     | 2478/5424 [46:25<39:26,  1.24it/s]
+
+
+
+
+ 46%|████▌     | 2488/5424 [46:33<39:12,  1.25it/s]
+
+
+
+
+ 46%|████▌     | 2498/5424 [46:41<39:17,  1.24it/s]
+
+
+
+
+ 46%|████▌     | 2508/5424 [46:49<39:40,  1.22it/s]
+
+
+
+
+ 46%|████▋     | 2517/5424 [46:56<39:36,  1.22it/s]
+
+
+
+
+ 47%|████▋     | 2527/5424 [47:04<38:07,  1.27it/s]
+
+
+
+
+
+ 47%|████▋     | 2539/5424 [47:14<41:51,  1.15it/s]
+
+
+
+
+ 47%|████▋     | 2549/5424 [47:23<39:17,  1.22it/s]
+
+
+
+
+ 47%|████▋     | 2558/5424 [47:30<39:08,  1.22it/s]
+
+
+
+
+ 47%|████▋     | 2568/5424 [47:38<38:18,  1.24it/s]
+
+
+
+
+ 48%|████▊     | 2578/5424 [47:47<39:25,  1.20it/s]
+
+
+
+
+ 48%|████▊     | 2588/5424 [47:55<38:16,  1.23it/s]
+
+
+
+
+ 48%|████▊     | 2597/5424 [48:03<38:06,  1.24it/s]
+
+
+
+
+
+ 48%|████▊     | 2609/5424 [48:13<39:29,  1.19it/s]
+
+
+
+
+ 48%|████▊     | 2619/5424 [48:21<42:29,  1.10it/s]
+
+
+
+
+ 48%|████▊     | 2628/5424 [48:29<38:01,  1.23it/s]
+
+
+
+
+ 49%|████▊     | 2638/5424 [48:37<37:23,  1.24it/s]
+
+
+
+
+ 49%|████▉     | 2649/5424 [48:45<36:11,  1.28it/s]
+
+
+
+
+ 49%|████▉     | 2658/5424 [48:53<37:07,  1.24it/s]
+
+
+
+
+ 49%|████▉     | 2668/5424 [49:01<36:45,  1.25it/s]
+
+
+
+
+ 49%|████▉     | 2678/5424 [49:09<36:36,  1.25it/s]
+
+
+
+
+ 50%|████▉     | 2688/5424 [49:17<36:37,  1.25it/s]
+
+
+
+
+ 50%|████▉     | 2698/5424 [49:25<37:48,  1.20it/s]
+
+
+
+
+ 50%|████▉     | 2707/5424 [49:32<37:41,  1.20it/s]
+
+ 50%|████▉     | 2710/5424 [49:35<38:34,  1.17it/s]
+
+ 50%|█████     | 2712/5424 [49:37<37:32,  1.20it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████▉| 200/201 [02:14<00:00,  1.45it/s]
+
+
+
+
+ 50%|█████     | 2719/5424 [52:13<4:35:29,  6.11s/it]
+
+
+
+
+ 50%|█████     | 2730/5424 [52:22<39:58,  1.12it/s]
+
+
+
+
+ 51%|█████     | 2740/5424 [52:30<34:35,  1.29it/s]
+
+
+
+
+ 51%|█████     | 2749/5424 [52:37<38:07,  1.17it/s]
+
+
+
+
+ 51%|█████     | 2758/5424 [52:45<36:07,  1.23it/s]
+
+
+
+
+ 51%|█████     | 2769/5424 [52:54<35:39,  1.24it/s]
+
+
+
+
+ 51%|█████     | 2778/5424 [53:01<37:09,  1.19it/s]
+
+
+
+
+
+ 51%|█████▏    | 2789/5424 [53:11<40:39,  1.08it/s]
+
+
+
+
+ 52%|█████▏    | 2799/5424 [53:19<34:40,  1.26it/s]
+
+
+
+
+ 52%|█████▏    | 2809/5424 [53:27<38:32,  1.13it/s]
+
+
+
+
+ 52%|█████▏    | 2819/5424 [53:35<34:23,  1.26it/s]
+
+
+
+
+ 52%|█████▏    | 2829/5424 [53:44<36:09,  1.20it/s]
+
+
+
+
+ 52%|█████▏    | 2838/5424 [53:51<35:09,  1.23it/s]
+
+
+
+
+ 53%|█████▎    | 2848/5424 [53:59<34:38,  1.24it/s]
+
+
+
+
+ 53%|█████▎    | 2858/5424 [54:08<35:18,  1.21it/s]
+
+
+
+
+ 53%|█████▎    | 2868/5424 [54:16<34:15,  1.24it/s]
+
+
+
+
+ 53%|█████▎    | 2878/5424 [54:24<33:47,  1.26it/s]
+
+
+
+
+ 53%|█████▎    | 2887/5424 [54:31<35:34,  1.19it/s]
+
+
+
+
+ 53%|█████▎    | 2897/5424 [54:39<34:06,  1.24it/s]
+
+
+
+
+ 54%|█████▎    | 2907/5424 [54:48<34:36,  1.21it/s]
+
+
+
+
+
+ 54%|█████▍    | 2919/5424 [54:58<33:45,  1.24it/s]
+
+
+
+
+ 54%|█████▍    | 2929/5424 [55:06<33:20,  1.25it/s]
+
+
+
+
+ 54%|█████▍    | 2939/5424 [55:14<32:50,  1.26it/s]
+
+
+
+
+ 54%|█████▍    | 2949/5424 [55:22<33:10,  1.24it/s]
+
+
+
+
+ 55%|█████▍    | 2959/5424 [55:30<34:38,  1.19it/s]
+
+
+
+
+ 55%|█████▍    | 2969/5424 [55:38<33:04,  1.24it/s]
+
+
+
+
+ 55%|█████▍    | 2978/5424 [55:45<32:39,  1.25it/s]
+
+
+ 55%|█████▌    | 2988/5424 [55:54<33:35,  1.21it/s]
+
+
+
+
+ 55%|█████▌    | 2998/5424 [56:02<33:56,  1.19it/s]
+
+
+
+
+ 55%|█████▌    | 3007/5424 [56:09<35:17,  1.14it/s]
+
+
+
+
+ 56%|█████▌    | 3017/5424 [56:18<31:37,  1.27it/s]
+
+
+
+
+ 56%|█████▌    | 3027/5424 [56:26<33:02,  1.21it/s]
+
+
+
+
+ 56%|█████▌    | 3037/5424 [56:34<32:02,  1.24it/s]
+
+
+
+
+ 56%|█████▌    | 3047/5424 [56:42<31:17,  1.27it/s]
+
+
+
+
+
+ 56%|█████▋    | 3058/5424 [56:51<32:32,  1.21it/s]
+
+
+
+
+ 57%|█████▋    | 3068/5424 [57:00<31:57,  1.23it/s]
+
+
+
+
+ 57%|█████▋    | 3078/5424 [57:08<31:18,  1.25it/s]
+
+
+
+
+ 57%|█████▋    | 3088/5424 [57:16<31:57,  1.22it/s]
+
+
+
+
+ 57%|█████▋    | 3098/5424 [57:24<30:48,  1.26it/s]
+
+
+
+
+ 57%|█████▋    | 3108/5424 [57:32<30:25,  1.27it/s]
+
+
+
+
+ 57%|█████▋    | 3118/5424 [57:40<29:55,  1.28it/s]
+
+
+
+
+
+ 58%|█████▊    | 3130/5424 [57:50<30:04,  1.27it/s]
+
+
+
+
+ 58%|█████▊    | 3140/5424 [57:58<30:31,  1.25it/s]
+
+
+
+
+ 58%|█████▊    | 3150/5424 [58:06<31:45,  1.19it/s]
+
+
+
+
+ 58%|█████▊    | 3160/5424 [58:14<30:01,  1.26it/s]
+
+
+ 59%|█████▉    | 3189/5424 [58:38<30:22,  1.23it/s]
+{'loss': 13.4376, 'grad_norm': 3.5372843742370605, 'learning_rate': 3.708818950813751e-06, 'rewards/margins': 2.187620162963867, 'rewards/chosen': -4.7259931564331055, 'rewards/rejected': -6.913613319396973, 'logps/margins': 8.919021606445312, 'logps/chosen': -12.617979049682617, 'logps/rejected': -21.536998748779297, 'accuracy': 0.699999988079071, 'epoch': 1.75}
+
+ 59%|█████▉    | 3191/5424 [58:40<32:10,  1.16it/s]
+
+
+
+
+ 59%|█████▉    | 3201/5424 [58:48<31:01,  1.19it/s]
+
+
+
+
+ 59%|█████▉    | 3211/5424 [58:56<29:37,  1.25it/s]
+
+
+
+
+ 59%|█████▉    | 3221/5424 [59:04<31:11,  1.18it/s]
+
+
+
+
+ 60%|█████▉    | 3231/5424 [59:12<29:38,  1.23it/s]
+
+
+
+
+ 60%|█████▉    | 3241/5424 [59:20<28:57,  1.26it/s]
+
+
+
+
+ 60%|█████▉    | 3250/5424 [59:28<29:05,  1.25it/s]
+
+
+
+
+ 60%|██████    | 3261/5424 [59:36<29:10,  1.24it/s]
+
+
+
+
+ 60%|██████    | 3270/5424 [59:44<28:19,  1.27it/s]
+
+
+
+
+ 60%|██████    | 3280/5424 [59:52<28:58,  1.23it/s]
+
+
+
+
+ 61%|██████    | 3290/5424 [1:00:00<27:49,  1.28it/s]
+
+
+
+
+ 61%|██████    | 3300/5424 [1:00:08<28:02,  1.26it/s]
+
+
+
+
+ 61%|██████    | 3310/5424 [1:00:16<28:50,  1.22it/s]
+
+
+
+
+ 61%|██████    | 3319/5424 [1:00:24<29:07,  1.20it/s]
+
+
+
+
+ 61%|██████▏   | 3329/5424 [1:00:32<28:06,  1.24it/s]
+
+
+
+
+
+ 62%|██████▏   | 3341/5424 [1:00:42<27:52,  1.25it/s]
+
+
+
+
+ 62%|██████▏   | 3351/5424 [1:00:50<27:02,  1.28it/s]
+
+
+
+
+ 62%|██████▏   | 3361/5424 [1:00:58<27:55,  1.23it/s]
+
+
+
+
+ 62%|██████▏   | 3371/5424 [1:01:06<28:23,  1.21it/s]
+
+
+
+
+ 62%|██████▏   | 3381/5424 [1:01:14<27:26,  1.24it/s]
+
+
+
+
+ 63%|██████▎   | 3391/5424 [1:01:22<27:12,  1.25it/s]
+
+
+
+
+ 63%|██████▎   | 3401/5424 [1:01:30<26:46,  1.26it/s]
+
+
+
+
+ 63%|██████▎   | 3411/5424 [1:01:38<26:39,  1.26it/s]
+
+
+
+
+ 63%|██████▎   | 3421/5424 [1:01:46<26:54,  1.24it/s]
+
+
+
+
+ 63%|██████▎   | 3431/5424 [1:01:54<26:08,  1.27it/s]
+
+
+
+
+ 63%|██████▎   | 3441/5424 [1:02:03<27:55,  1.18it/s]
+
+
+
+
+ 64%|██████▎   | 3450/5424 [1:02:10<27:25,  1.20it/s]
+
+
+
+
+ 64%|██████▍   | 3460/5424 [1:02:18<27:58,  1.17it/s]
+
+
+
+
+ 64%|██████▍   | 3470/5424 [1:02:27<26:06,  1.25it/s]
+
+
+
+
+ 64%|██████▍   | 3479/5424 [1:02:34<26:48,  1.21it/s]
+
+
+
+
+
+ 64%|██████▍   | 3492/5424 [1:02:45<25:56,  1.24it/s]
+
+
+
+
+ 65%|██████▍   | 3502/5424 [1:02:53<25:49,  1.24it/s]
+
+
+
+
+ 65%|██████▍   | 3511/5424 [1:03:00<25:28,  1.25it/s]
+
+
+
+
+ 65%|██████▍   | 3521/5424 [1:03:08<25:33,  1.24it/s]
+
+
+
+
+ 65%|██████▌   | 3531/5424 [1:03:17<26:18,  1.20it/s]
+
+
+
+
+ 65%|██████▌   | 3541/5424 [1:03:25<26:38,  1.18it/s]
+
+
+
+
+ 65%|██████▌   | 3550/5424 [1:03:32<26:08,  1.19it/s]
+
+
+
+
+ 66%|██████▌   | 3560/5424 [1:03:40<24:44,  1.26it/s]
+
+
+
+
+ 66%|██████▌   | 3570/5424 [1:03:49<24:54,  1.24it/s]
+
+
+
+
+ 66%|██████▌   | 3580/5424 [1:03:57<25:03,  1.23it/s]
+
+
+
+
+ 66%|██████▌   | 3590/5424 [1:04:05<24:24,  1.25it/s]
+
+
+
+
+ 66%|██████▋   | 3600/5424 [1:04:13<24:06,  1.26it/s]
+
+
+
+
+ 67%|██████▋   | 3609/5424 [1:04:20<24:17,  1.25it/s]
+
+
+
+
+
+ 67%|██████▋   | 3621/5424 [1:04:30<26:22,  1.14it/s]
+
+
+
+
+ 67%|██████▋   | 3631/5424 [1:04:38<24:21,  1.23it/s]
+
+
+
+
+ 67%|██████▋   | 3641/5424 [1:04:47<24:20,  1.22it/s]
+
+
+
+
+ 67%|██████▋   | 3651/5424 [1:04:55<24:24,  1.21it/s]
+
+
+
+
+ 67%|██████▋   | 3660/5424 [1:05:02<23:37,  1.24it/s]
+
+
+
+
+ 68%|██████▊   | 3670/5424 [1:05:10<23:36,  1.24it/s]
+
+
+
+
+ 68%|██████▊   | 3680/5424 [1:05:18<23:26,  1.24it/s]
+
+
+
+
+ 68%|██████▊   | 3690/5424 [1:05:26<23:41,  1.22it/s]
+
+
+
+
+ 68%|██████▊   | 3700/5424 [1:05:34<23:05,  1.24it/s]
+
+
+
+
+ 68%|██████▊   | 3710/5424 [1:05:42<23:06,  1.24it/s]
+
+
+
+
+ 69%|██████▊   | 3720/5424 [1:05:51<23:42,  1.20it/s]
+
+
+
+
+ 69%|██████▉   | 3729/5424 [1:05:58<23:36,  1.20it/s]
+
+
+
+
+ 69%|██████▉   | 3740/5424 [1:06:07<22:14,  1.26it/s]
+
+
+
+
+
+ 69%|██████▉   | 3751/5424 [1:06:16<23:17,  1.20it/s]
+
+
+
+
+ 69%|██████▉   | 3761/5424 [1:06:24<22:12,  1.25it/s]
+
+
+
+
+ 70%|██████▉   | 3771/5424 [1:06:32<22:10,  1.24it/s]
+
+
+
+
+ 70%|██████▉   | 3781/5424 [1:06:40<21:35,  1.27it/s]
+
+
+
+
+ 70%|██████▉   | 3791/5424 [1:06:48<21:40,  1.26it/s]
+
+
+
+
+ 70%|███████   | 3801/5424 [1:06:57<21:40,  1.25it/s]
+
+
+
+
+ 70%|███████   | 3811/5424 [1:07:05<21:25,  1.25it/s]
+
+
+
+
+ 70%|███████   | 3821/5424 [1:07:13<21:30,  1.24it/s]
+
+
+
+
+ 71%|███████   | 3831/5424 [1:07:21<22:07,  1.20it/s]
+
+
+
+
+ 71%|███████   | 3840/5424 [1:07:28<21:13,  1.24it/s]
+
+
+
+
+ 71%|███████   | 3850/5424 [1:07:36<21:10,  1.24it/s]
+
+
+
+
+ 71%|███████   | 3860/5424 [1:07:45<20:39,  1.26it/s]
+
+
+
+
+ 71%|███████▏  | 3870/5424 [1:07:52<20:33,  1.26it/s]
+
+
+
+
+ 72%|███████▏  | 3880/5424 [1:08:01<20:39,  1.25it/s]
+
+
+
+
+ 72%|███████▏  | 3890/5424 [1:08:09<22:45,  1.12it/s]
+
+
+
+
+ 72%|███████▏  | 3899/5424 [1:08:17<20:39,  1.23it/s]
+
+
+
+
+ 72%|███████▏  | 3910/5424 [1:08:25<20:03,  1.26it/s]
+
+
+
+
+
+ 72%|███████▏  | 3922/5424 [1:08:35<20:17,  1.23it/s]
+
+
+
+
+ 72%|███████▏  | 3931/5424 [1:08:43<22:29,  1.11it/s]
+
+
+
+
+ 73%|███████▎  | 3941/5424 [1:08:51<19:52,  1.24it/s]
+
+
+
+
+ 73%|███████▎  | 3950/5424 [1:08:58<19:49,  1.24it/s]
+
+
+
+
+ 73%|███████▎  | 3960/5424 [1:09:07<19:40,  1.24it/s]
+
+
+
+
+ 73%|███████▎  | 3970/5424 [1:09:15<19:31,  1.24it/s]
+
+
+
+
+ 73%|███████▎  | 3980/5424 [1:09:23<19:16,  1.25it/s]
+
+
+
+
+ 74%|███████▎  | 3990/5424 [1:09:31<19:37,  1.22it/s]
+
+
+
+
+ 74%|███████▎  | 3999/5424 [1:09:39<20:29,  1.16it/s]
+
+
+
+
+
+ 74%|███████▍  | 4012/5424 [1:09:49<19:08,  1.23it/s]
+
+
+
+
+ 74%|███████▍  | 4021/5424 [1:09:57<19:33,  1.20it/s]
+
+
+
+
+ 74%|███████▍  | 4031/5424 [1:10:05<19:18,  1.20it/s]
+
+
+
+
+ 75%|███████▍  | 4041/5424 [1:10:13<18:29,  1.25it/s]
+
+
+
+
+ 75%|███████▍  | 4051/5424 [1:10:21<19:25,  1.18it/s]
+
+
+
+
+ 75%|███████▍  | 4061/5424 [1:10:29<18:14,  1.24it/s]
+
+
+
+ 75%|███████▌  | 4068/5424 [1:10:35<18:18,  1.23it/s]
+generating response...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|█████████▉| 199/201 [02:13<00:01,  1.53it/s]
+
+
+ 75%|███████▌  | 4071/5424 [1:13:15<9:00:41, 23.98s/it]
+
+
+
+
+ 75%|███████▌  | 4081/5424 [1:13:24<33:16,  1.49s/it]
+
+
+
+
+ 75%|███████▌  | 4090/5424 [1:13:31<18:42,  1.19it/s]
+
+
+
+
+ 76%|███████▌  | 4100/5424 [1:13:39<17:28,  1.26it/s]
+
+
+
+
+ 76%|███████▌  | 4110/5424 [1:13:47<18:27,  1.19it/s]
+
+
+
+
+ 76%|███████▌  | 4120/5424 [1:13:56<17:23,  1.25it/s]
+
+
+
+
+ 76%|███████▌  | 4130/5424 [1:14:04<17:42,  1.22it/s]
+
+
+
+
+
+ 76%|███████▋  | 4142/5424 [1:14:14<17:23,  1.23it/s]
+
+
+
+
+ 77%|███████▋  | 4152/5424 [1:14:22<16:57,  1.25it/s]
+
+
+
+
+ 77%|███████▋  | 4162/5424 [1:14:30<16:56,  1.24it/s]
+
+
+
+
+ 77%|███████▋  | 4171/5424 [1:14:37<16:45,  1.25it/s]
+
+
+
+
+ 77%|███████▋  | 4181/5424 [1:14:45<16:57,  1.22it/s]
+
+
+
+
+ 77%|███████▋  | 4191/5424 [1:14:54<17:01,  1.21it/s]
+
+
+
+
+ 77%|███████▋  | 4201/5424 [1:15:02<16:56,  1.20it/s]
+
+
+
+
+ 78%|███████▊  | 4210/5424 [1:15:09<16:15,  1.24it/s]
+
+
+
+
+ 78%|███████▊  | 4220/5424 [1:15:17<16:30,  1.22it/s]
+
+
+
+
+ 78%|███████▊  | 4230/5424 [1:15:26<16:25,  1.21it/s]
+
+
+
+
+ 78%|███████▊  | 4240/5424 [1:15:34<16:24,  1.20it/s]
+
+
+
+
+ 78%|███████▊  | 4250/5424 [1:15:42<15:50,  1.24it/s]
+
+
+
+
+
+ 79%|███████▊  | 4262/5424 [1:15:52<15:36,  1.24it/s]
+
+
+
+
+ 79%|███████▉  | 4272/5424 [1:16:00<15:25,  1.25it/s]
+
+
+
+
+ 79%|███████▉  | 4282/5424 [1:16:08<15:04,  1.26it/s]
+
+
+
+
+ 79%|███████▉  | 4292/5424 [1:16:16<15:10,  1.24it/s]
+
+
+
+
+ 79%|███████▉  | 4301/5424 [1:16:23<15:19,  1.22it/s]
+
+
+
+
+ 79%|███████▉  | 4311/5424 [1:16:32<15:11,  1.22it/s]
+
+
+
+
+ 80%|███████▉  | 4321/5424 [1:16:40<14:48,  1.24it/s]
+
+
+
+
+ 80%|███████▉  | 4331/5424 [1:16:48<15:17,  1.19it/s]
+
+
+
+
+ 80%|████████  | 4341/5424 [1:16:56<14:22,  1.26it/s]
+
+
+
+
+ 80%|████████  | 4350/5424 [1:17:04<14:35,  1.23it/s]
+
+
+
+
+ 80%|████████  | 4360/5424 [1:17:12<14:30,  1.22it/s]
+
+
+
+
+ 81%|████████  | 4370/5424 [1:17:20<14:09,  1.24it/s]
+
+
+
+
+
+ 81%|████████  | 4382/5424 [1:17:30<13:58,  1.24it/s]
+
+
+
+
+ 81%|████████  | 4392/5424 [1:17:38<13:59,  1.23it/s]
+
+
+
+
+ 81%|████████  | 4402/5424 [1:17:46<14:11,  1.20it/s]
+
+
+
+
+ 81%|████████▏ | 4412/5424 [1:17:54<13:35,  1.24it/s]
+
+
+
+
+ 82%|████████▏ | 4421/5424 [1:18:01<13:30,  1.24it/s]
+
+
+
+
+ 82%|████████▏ | 4431/5424 [1:18:10<13:56,  1.19it/s]
+
+
+
+
+ 82%|████████▏ | 4441/5424 [1:18:17<12:44,  1.29it/s]
+
+
+
+
+ 82%|████████▏ | 4451/5424 [1:18:25<12:46,  1.27it/s]
+
+
+
+
+ 82%|████████▏ | 4461/5424 [1:18:34<12:50,  1.25it/s]
+
+
+
+
+ 82%|████████▏ | 4471/5424 [1:18:42<12:39,  1.25it/s]
+
+
+
+
+ 83%|████████▎ | 4481/5424 [1:18:49<12:33,  1.25it/s]
+
+
+
+
+ 83%|████████▎ | 4491/5424 [1:18:58<12:23,  1.25it/s]
+
+
+
+
+ 83%|████████▎ | 4501/5424 [1:19:06<12:37,  1.22it/s]
+
+
+
+
+ 83%|████████▎ | 4511/5424 [1:19:14<12:19,  1.24it/s]
+
+
+
+
+ 83%|████████▎ | 4520/5424 [1:19:22<12:32,  1.20it/s]
+
+
+
+
+ 84%|████████▎ | 4530/5424 [1:19:30<12:44,  1.17it/s]
+
+
+
+
+ 84%|████████▎ | 4540/5424 [1:19:38<11:58,  1.23it/s]
+
+
+
+
+ 84%|████████▍ | 4550/5424 [1:19:46<12:08,  1.20it/s]
+
+
+
+
+ 84%|████████▍ | 4560/5424 [1:19:54<11:59,  1.20it/s]
+
+
+
+
+ 84%|████████▍ | 4570/5424 [1:20:02<11:07,  1.28it/s]
+
+
+
+
+ 84%|████████▍ | 4580/5424 [1:20:10<11:14,  1.25it/s]
+
+
+
+
+ 85%|████████▍ | 4590/5424 [1:20:18<10:55,  1.27it/s]
+
+
+
+
+ 85%|████████▍ | 4600/5424 [1:20:26<11:05,  1.24it/s]
+
+
+
+
+
+ 85%|████████▌ | 4612/5424 [1:20:36<10:55,  1.24it/s]
+
+
+
+
+ 85%|████████▌ | 4622/5424 [1:20:44<10:32,  1.27it/s]
+
+
+
+
+ 85%|████████▌ | 4632/5424 [1:20:52<11:06,  1.19it/s]
+
+
+
+
+ 86%|████████▌ | 4641/5424 [1:21:00<10:38,  1.23it/s]
+
+
+
+
+ 86%|████████▌ | 4652/5424 [1:21:08<10:05,  1.27it/s]
+
+
+
+
+ 86%|████████▌ | 4662/5424 [1:21:16<10:30,  1.21it/s]
+
+
+
+
+ 86%|████████▌ | 4671/5424 [1:21:24<10:09,  1.23it/s]
+
+
+
+
+ 86%|████████▋ | 4681/5424 [1:21:32<09:53,  1.25it/s]
+
+
+
+
+ 86%|████████▋ | 4691/5424 [1:21:40<09:53,  1.23it/s]
+
+
+
+
+ 87%|████████▋ | 4701/5424 [1:21:48<10:11,  1.18it/s]
+
+
+
+
+ 87%|████████▋ | 4710/5424 [1:21:56<09:33,  1.24it/s]
+
+
+
+
+ 87%|████████▋ | 4720/5424 [1:22:04<09:36,  1.22it/s]
+
+
+
+
+ 87%|████████▋ | 4730/5424 [1:22:12<09:38,  1.20it/s]
+
+
+
+
+ 87%|████████▋ | 4740/5424 [1:22:20<09:09,  1.24it/s]
+
+
+
+
+
+ 88%|████████▊ | 4752/5424 [1:22:30<09:00,  1.24it/s]
+
+
+
+
+ 88%|████████▊ | 4761/5424 [1:22:38<09:13,  1.20it/s]
+
+
+
+
+ 88%|████████▊ | 4771/5424 [1:22:46<08:55,  1.22it/s]
+
+
+
+
+ 88%|████████▊ | 4781/5424 [1:22:54<08:52,  1.21it/s]
+
+
+
+
+ 88%|████████▊ | 4791/5424 [1:23:02<08:32,  1.24it/s]
+
+
+
+
+ 89%|████████▊ | 4801/5424 [1:23:10<08:27,  1.23it/s]
+
+
+
+
+ 89%|████████▊ | 4811/5424 [1:23:18<08:07,  1.26it/s]
+
+
+
+
+ 89%|████████▉ | 4821/5424 [1:23:26<08:10,  1.23it/s]
+
+
+
+
+ 89%|████████▉ | 4831/5424 [1:23:34<07:53,  1.25it/s]
+
+
+
+
+ 89%|████████▉ | 4841/5424 [1:23:43<08:20,  1.16it/s]
+
+
+
+
+ 89%|████████▉ | 4851/5424 [1:23:51<07:40,  1.24it/s]
+
+
+
+
+ 90%|████████▉ | 4860/5424 [1:23:58<07:29,  1.26it/s]
+
+
+
+
+ 90%|████████▉ | 4871/5424 [1:24:07<07:16,  1.27it/s]
+
+
+
+
+ 90%|████████▉ | 4880/5424 [1:24:14<07:20,  1.23it/s]
+
+
+
+
+ 90%|█████████ | 4890/5424 [1:24:22<07:15,  1.23it/s]
+
+
+
+
+ 90%|█████████ | 4900/5424 [1:24:31<07:08,  1.22it/s]
+
+
+
+
+ 91%|█████████ | 4910/5424 [1:24:39<06:50,  1.25it/s]
+
+
+
+
+
+ 91%|█████████ | 4922/5424 [1:24:49<07:03,  1.18it/s]
+
+
+
+
+ 91%|█████████ | 4932/5424 [1:24:57<06:41,  1.23it/s]
+
+
+
+
+ 91%|█████████ | 4941/5424 [1:25:04<06:31,  1.23it/s]
+
+
+
+
+ 91%|█████████▏| 4951/5424 [1:25:12<06:17,  1.25it/s]
+
+
+
+
+ 91%|█████████▏| 4961/5424 [1:25:20<06:22,  1.21it/s]
+
+
+
+
+ 92%|█████████▏| 4971/5424 [1:25:29<06:13,  1.21it/s]
+
+
+
+
+ 92%|█████████▏| 4981/5424 [1:25:37<05:59,  1.23it/s]
+
+
+
+
+ 92%|█████████▏| 4991/5424 [1:25:45<05:55,  1.22it/s]
+
+
+
+
+ 92%|█████████▏| 5000/5424 [1:25:52<05:43,  1.23it/s]
+
+
+
+
+ 92%|█████████▏| 5010/5424 [1:26:00<05:32,  1.24it/s]
+
+
+
+
+ 93%|█████████▎| 5020/5424 [1:26:08<05:25,  1.24it/s]
+
+
+
+
+ 93%|█████████▎| 5030/5424 [1:26:16<05:15,  1.25it/s]
+
+
+
+
+ 93%|█████████▎| 5040/5424 [1:26:24<05:08,  1.25it/s]
+
+
+
+
+ 93%|█████████▎| 5050/5424 [1:26:33<05:05,  1.22it/s]
+
+
+
+
+ 93%|█████████▎| 5060/5424 [1:26:41<04:51,  1.25it/s]
+
+
+
+
+
+ 94%|█████████▎| 5072/5424 [1:26:51<04:52,  1.20it/s]
+
+
+
+
+ 94%|█████████▎| 5081/5424 [1:26:58<04:42,  1.22it/s]
+
+
+
+
+ 94%|█████████▍| 5091/5424 [1:27:06<04:28,  1.24it/s]
+
+
+
+
+ 94%|█████████▍| 5101/5424 [1:27:14<04:14,  1.27it/s]
+
+
+
+
+ 94%|█████████▍| 5111/5424 [1:27:22<04:09,  1.26it/s]
+
+
+
+
+ 94%|█████████▍| 5121/5424 [1:27:31<04:07,  1.22it/s]
+
+
+
+
+ 95%|█████████▍| 5130/5424 [1:27:38<04:08,  1.19it/s]
+
+
+
+
+ 95%|█████████▍| 5140/5424 [1:27:46<03:57,  1.20it/s]
+
+
+
+
+ 95%|█████████▍| 5149/5424 [1:27:54<03:45,  1.22it/s]
+
+
+
+
+ 95%|█████████▌| 5159/5424 [1:28:02<03:41,  1.20it/s]
+
+
+
+
+
+ 95%|█████████▌| 5171/5424 [1:28:12<03:27,  1.22it/s]
+
+
+
+
+ 96%|█████████▌| 5181/5424 [1:28:20<03:22,  1.20it/s]
+
+
+
+
+ 96%|█████████▌| 5191/5424 [1:28:29<03:10,  1.23it/s]
+
+
+
+
+ 96%|█████████▌| 5201/5424 [1:28:37<02:59,  1.24it/s]
+
+
+
+
+ 96%|█████████▌| 5211/5424 [1:28:45<02:52,  1.23it/s]
+
+
+
+
+ 96%|█████████▌| 5220/5424 [1:28:52<02:45,  1.24it/s]
+
+
+
+
+ 96%|█████████▋| 5230/5424 [1:29:00<02:38,  1.22it/s]
+
+
+
+
+ 97%|█████████▋| 5240/5424 [1:29:08<02:26,  1.25it/s]
+
+
+
+
+ 97%|█████████▋| 5250/5424 [1:29:16<02:20,  1.24it/s]
+
+
+
+
+ 97%|█████████▋| 5260/5424 [1:29:25<02:14,  1.22it/s]
+
+
+
+
+ 97%|█████████▋| 5270/5424 [1:29:33<02:03,  1.25it/s]
+
+
+
+
+
+ 97%|█████████▋| 5281/5424 [1:29:42<01:59,  1.20it/s]
+
+
+
+
+ 98%|█████████▊| 5291/5424 [1:29:50<01:46,  1.25it/s]
+
+
+
+
+ 98%|█████████▊| 5301/5424 [1:29:59<01:43,  1.19it/s]
+
+
+
+
+ 98%|█████████▊| 5310/5424 [1:30:06<01:37,  1.17it/s]
+
+
+
+
+ 98%|█████████▊| 5321/5424 [1:30:15<01:20,  1.27it/s]
+
+
+
+
+ 98%|█████████▊| 5330/5424 [1:30:22<01:18,  1.19it/s]
+
+
+
+
+ 98%|█████████▊| 5340/5424 [1:30:31<01:08,  1.23it/s]
+
+
+
+
+ 99%|█████████▊| 5350/5424 [1:30:39<01:01,  1.21it/s]
+
+
+
+
+
+ 99%|█████████▉| 5361/5424 [1:30:48<00:53,  1.18it/s]
+
+
+
+
+ 99%|█████████▉| 5371/5424 [1:30:57<00:42,  1.24it/s]
+
+
+
+
+ 99%|█████████▉| 5381/5424 [1:31:05<00:34,  1.24it/s]
+
+
+
+
+ 99%|█████████▉| 5390/5424 [1:31:12<00:28,  1.20it/s]
+
+
+
+
+100%|█████████▉| 5400/5424 [1:31:20<00:19,  1.24it/s]
+
+
+
+
+100%|█████████▉| 5410/5424 [1:31:29<00:11,  1.18it/s]
+
+
+
+
+100%|█████████▉| 5419/5424 [1:31:36<00:04,  1.23it/s]
+
+
+100%|██████████| 5424/5424 [1:31:40<00:00,  1.20it/s]
+generating response...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|█████████▉| 199/201 [02:14<00:01,  1.52it/s]
+
+100%|██████████| 5424/5424 [1:34:32<00:00,  1.05s/it]
+{'train_runtime': 5672.4826, 'train_samples_per_second': 0.956, 'train_steps_per_second': 0.956, 'train_loss': 14.85964111029926, 'epoch': 3.0}
+done
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[1m[[34m[22mnotice[39m[1m][22m A new release of pip is available: [31m23.0.1[39m -> [32m24.2
+[1m[[34m[22mnotice[39m[1m][22m To update, run: [32mpython3 -m pip install --upgrade pip
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[33m  WARNING: Failed to remove contents in a temporary directory '/home/jupyter/.local/lib/python3.10/site-packages/~0kenizers'.
+[33m  You can safely remove it manually.
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+[31mtransformers 4.38.2 requires tokenizers<0.19,>=0.14, but you have tokenizers 0.20.1 which is incompatible.
+[31munbabel-comet 2.2.2 requires protobuf<5.0.0,>=4.24.4, but you have protobuf 3.20.0 which is incompatible.
+[1m[[34m[22mnotice[39m[1m][22m A new release of pip is available: [31m23.0.1[39m -> [32m24.2
+[1m[[34m[22mnotice[39m[1m][22m To update, run: [32mpython3 -m pip install --upgrade pip
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[33mWARNING: Ignoring invalid distribution -okenizers (/home/jupyter/.local/lib/python3.10/site-packages)
+[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+[31munbabel-comet 2.2.2 requires protobuf<5.0.0,>=4.24.4, but you have protobuf 3.20.0 which is incompatible.
+[1m[[34m[22mnotice[39m[1m][22m A new release of pip is available: [31m23.0.1[39m -> [32m24.2
+[1m[[34m[22mnotice[39m[1m][22m To update, run: [32mpython3 -m pip install --upgrade pip
+Downloading shards: 100%|██████████| 6/6 [00:00<00:00, 862.64it/s]
+
+
+
+Loading checkpoint shards: 100%|██████████| 6/6 [00:07<00:00,  1.27s/it]

@@ -1,0 +1,210 @@
+{
+    "os": "Linux-5.13.0-40-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-10-16T08:27:46.724624",
+    "startedAt": "2024-10-16T08:27:45.819410",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--sft_model_name",
+        "haoranxu/X-ALMA-13B-Pretrain",
+        "--prompt_template",
+        "Translate this from Russian to English:\\nRussian: {raw_prompt} \\nEnglish:",
+        "--dataset_name",
+        "marulyanova/PKU-SafeRLHF-10K-Modified-xcomet",
+        "--sanity_check",
+        "False",
+        "--max_length",
+        "512",
+        "--peft_config.r",
+        "64",
+        "--peft_config.target_modules",
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj",
+        "--peft_config.lora_alpha",
+        "1",
+        "--peft_config.lora_dropout",
+        "0"
+    ],
+    "state": "running",
+    "program": "/home/jupyter/work/resources/modpo/scripts/examples/dpo/dpo.py",
+    "codePathLocal": "scripts/examples/dpo/dpo.py",
+    "codePath": "scripts/examples/dpo/dpo.py",
+    "git": {
+        "remote": "https://github.com/ZHZisZZ/modpo.git",
+        "commit": "2e2df20f73b35b09f88ae1fb7d8e19880a6bc3fc"
+    },
+    "email": null,
+    "root": "/home/jupyter/work/resources/modpo",
+    "host": "g21-bcbe5443-4ce8-46b2-9e97-f69ae940d8b6",
+    "username": "jupyter",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 14,
+    "cpu_count_logical": 28,
+    "cpu_freq": {
+        "current": 1999.997000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1999.997,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 98.36612319946289,
+            "used": 61.05827713012695
+        }
+    },
+    "gpu": "NVIDIA A100-SXM4-80GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-SXM4-80GB",
+            "memory_total": 85899345920
+        }
+    ],
+    "memory": {
+        "total": 116.942626953125
+    }
+}
